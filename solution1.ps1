@@ -1,4 +1,4 @@
-for ($i = 0; $i -lt 7; $i++)
+for ($i = 0; $i -lt 8; $i++)
 {
     Write-Host "hello $i"
 }
